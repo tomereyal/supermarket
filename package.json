@@ -36,7 +36,7 @@
     "typescript": "^3.9.2"
   },
   "scripts": {
-   "start": "ts-node-dev --watch -- src/server.ts"
+    "start": "ts-node-dev --watch -- src/server.ts"
   },
   "author": "",
   "license": "ISC"
