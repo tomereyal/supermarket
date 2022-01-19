@@ -30,7 +30,7 @@
     "@types/mongoose": "^5.11.97"
   },
   "scripts": {
-    "build": "rm -rf build/ && prettier --write source/ && tsc",
+    "build": "rm -rf build && tsc",
     "start": "nodemon src/server.ts"
   },
   "author": "",
