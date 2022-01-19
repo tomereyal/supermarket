@@ -36,9 +36,8 @@
     "typescript": "^3.9.10"
   },
   "scripts": {
-    "start": "ts-node-dev --watch -- src/server.ts",
     "tsc": "tsc",
-    "start:prod": "node build/server.js"
+    "start": "node build/server.js"
   },
   "author": "",
   "license": "ISC"
